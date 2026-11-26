@@ -4,7 +4,7 @@ Interactive decision-support dashboard developed for the **Professional Bachelor
 
 ---
 
-## 🎯 Architecture & User Stories Implementation
+##  Architecture & User Stories Implementation
 
 The dashboard directly implements the reactive architecture defined in our **Mermaid reactive diagram** and answers user questions **Q1 through Q8**:
 
@@ -16,7 +16,7 @@ The dashboard directly implements the reactive architecture defined in our **Mer
 
 ---
 
-## 🚀 How to Run the Dashboard
+##  How to Run the Dashboard
 
 ### Option A: From Terminal
 Simply run the launcher script:
@@ -35,7 +35,7 @@ R -e "shiny::runApp('.', port=8080, launch.browser=TRUE)"
 
 ---
 
-## 📦 Required R Packages
+##  Required R Packages
 All dependencies are installed:
 - `shiny`
 - `bslib`
